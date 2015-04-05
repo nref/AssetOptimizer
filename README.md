@@ -3,8 +3,8 @@ Retirement Optimization with Python
 
 A simulation of pre-retirement and post-retirement income and 401(k) growth.
 
-![Image](../blob/master/AssetOptimizer/blob/ExampleRetirement.png?raw=true)
-![Image](../blob/master/AssetOptimizer/blob/ExamplePreRetirement.png?raw=true)
+![Image](../blob/master/ExampleRetirement.png?raw=true)
+![Image](../blob/master/ExamplePreRetirement.png?raw=true)
 
 Accounted for in the model is
 
