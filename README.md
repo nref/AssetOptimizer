@@ -3,7 +3,14 @@ Retirement Optimization with Python
 
 A simulation of pre-retirement and post-retirement income and 401(k) growth.
 
+This tool helps to answer the question, "I am starting to save for retirement. Should I open a Roth or a Traditional 401(k) account?". Conversions are not considered.
+
+The image below, output by the tool, shows that the value of the account is the same over time in either the Roth or Traditional case. The example image assumes one would contribute the same amount in either case, additionally assumed to be the maximum possible. The three discontinuities at 25, 35, and 40 respectively the result of decreased investment returns as the portfolio transitions to safer wealth vehicles and finally as retirement begins.
+
 ![Image](../master/ExampleRetirement.png?raw=true)
+
+The image below shows that, for the author of this tool, my retirement will be significantly more comfortable at a minor cost to pre-retirement income.
+
 ![Image](../master/ExamplePreRetirement.png?raw=true)
 
 Accounted for in the model is
