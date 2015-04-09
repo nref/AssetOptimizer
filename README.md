@@ -9,7 +9,7 @@ The image below, output by the tool, shows that the value of the account is the 
 
 ![Image](../master/ExampleRetirement.png?raw=true)
 
-The image below shows that, for the author of this tool, my retirement will be significantly more comfortable at a minor cost to pre-retirement income.
+The image below shows that, for the author of this tool, retirement will be significantly more comfortable at a minor cost to pre-retirement income. The discontinuity at about year 26 coincides with the beginning of catch-up contributions. The large discontinuity at year 40 is the beginning of retirement.
 
 ![Image](../master/ExamplePreRetirement.png?raw=true)
 
