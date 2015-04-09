@@ -22,7 +22,8 @@ Accounted for in the model is
 	(assumed to be $500 every 3 years)
 - US income tax schedules for a single filer
 - catch-up contributions (currently allowed age 50+)
-- A change in growth rate / risk toelrance as retirement approaches
+- A change in growth rate / risk tolerance as retirement approaches
+- currency inflation
 
 Input is 
 
